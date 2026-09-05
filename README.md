@@ -1,1 +1,1 @@
-# DỰ ÁN ỨNG DỤNG CỦA HÀM SỐ BẬC HAI TRONG PHÂN TÍCH QUỸ ĐẠO BAY CỦA QUẢ BÓNG
+# DỰ ÁN ỨNG DỤNG CỦA HÀM SỐ BẬC HẢI TRONG PHÂN TÍCH QUỸ ĐẠO BAY CỦA QUẢ BÓNG
